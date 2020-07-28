@@ -116,7 +116,7 @@ body::before {
 <a href="20200726_009.JPG" data-lightbox="abc"><img src="20200726_009.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20200726_010.JPG" data-lightbox="abc"><img src="20200726_010.JPG" alt="サンプル画像" width="900" /></a>
 
-<a href="line_001.JPG" data-lightbox="abc"><img src="line_001.JPG" alt="サンプル画像" width="900" /></a>
+<a href="_58376220.m4a" data-lightbox="abc"><img src="_58376220.m4a" alt="サンプル画像" width="３00" /></a>
 
 <br><br><br>
 
