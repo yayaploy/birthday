@@ -116,7 +116,10 @@ body::before {
 <a href="20200726_009.JPG" data-lightbox="abc"><img src="20200726_009.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20200726_010.JPG" data-lightbox="abc"><img src="20200726_010.JPG" alt="サンプル画像" width="900" /></a>
 
-<audio src="_58376220.m4a"></audio>
+<audio controls>
+  <source src="_58376220.m4a">
+</audio>
+
 
 <br><br><br>
 
