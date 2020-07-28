@@ -91,9 +91,7 @@ body::before {
 <p align="left"> <img src="QR_birthday.jpg" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 
-<!--
-<a href="20190809_011.JPG" data-lightbox="abc"><img src="20190809_011.JPG" alt="サンプル画像" width="900" /></a>
--->
+
 
 <h1><span class="yellow"><marquee behavior="alternate">!!! วันเกิด/birthday/誕生日 2563/07/26 !!!</marquee></span></h1>
 
@@ -115,11 +113,11 @@ body::before {
 <a href="20200726_008.JPG" data-lightbox="abc"><img src="20200726_008.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20200726_009.JPG" data-lightbox="abc"><img src="20200726_009.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20200726_010.JPG" data-lightbox="abc"><img src="20200726_010.JPG" alt="サンプル画像" width="900" /></a>
-
+<!--
 <audio controls>
   <source m4a="_58376220.m4a">
 </audio>
-
+-->
 
 <br><br><br>
 
@@ -130,15 +128,13 @@ body::before {
 
 
 
-<br>
+<br><br><br>
 
 
 
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<!--<br><section>
- <a href="https://opa.cig2.imagegateway.net/s/cp/B8ahZttFFTL" target="_blank">鮎パ＠まほろば　2017/08/06、PassWD:なし</a>
-       </section><br>-->
+
 
 
 <script src="https://code.jquery.com/jquery-1.12.4.min.js" type="text/javascript"></script>
