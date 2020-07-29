@@ -119,8 +119,14 @@ body::before {
 <source src="_58376220.mp3" type="audio/mp3">
 <!--<source src="_58376220.mp3">-->
 </audio>
-
+<!--
 <video src="15803.t.mp4"></video>
+-->
+<video>
+<source src='sample.ogv' type='video/ogg; codecs="theora, vorbis"'>
+<source src='15803.t.mp4' type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"'>
+<p>動画を再生するには、videoタグをサポートしたブラウザが必要です。</p>
+</video>
 
 <!--
 <audio preload="metadata" controls>
