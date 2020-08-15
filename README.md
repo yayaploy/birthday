@@ -126,7 +126,7 @@ body::before {
 <iframe width="560" height="315" src="https://www.youtube.com/embed/haWIQZuMXxg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-<audio　controls>
+<audio controls>
 <source src="_58376220.mp3">
 <source src="_58376220.m4a">
 <p style="color: red">HTML5のaudioに対応していないブラウザのためサンプルは表示されません。</p>
