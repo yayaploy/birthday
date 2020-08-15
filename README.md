@@ -125,19 +125,19 @@ body::before {
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/haWIQZuMXxg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<audio controls>
-<source src="_58376220.mp3" type="audio/mp3">
-<!--<source src="_58376220.mp3">-->
+
+<audio　controls>
+<source src="_58376220.mp3">
+<p style="color: red">HTML5のaudioに対応していないブラウザのためサンプルは表示されません。</p>
 </audio>
+
 <!--
-<video src="15803.t.mp4"></video>
--->
 <video>
 <source src='sample.ogv' type='video/ogg; codecs="theora, vorbis"'>
 <source src='15803.t.mp4' type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"'>
 <p>動画を再生するには、videoタグをサポートしたブラウザが必要です。</p>
 </video>
-
+-->
 <!--
 <audio preload="metadata" controls>
 <source src="_58376220.m4a" type="audio/aac">
