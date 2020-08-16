@@ -128,7 +128,7 @@ body::before {
 
 <audio controls>
 <source src="_58376220.mp3">
-<source src="_58376220.m4a">
+<source src="_58376220.ogg">
 <p style="color: red">HTML5のaudioに対応していないブラウザのためサンプルは表示されません。</p>
 </audio>
 
