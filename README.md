@@ -132,6 +132,19 @@ body::before {
 <p style="color: red">HTML5のaudioに対応していないブラウザのためサンプルは表示されません。</p>
 </audio>
 
+
+<div class="text">
+     <div class="audio-link">
+                            <audio style="max-width: 100%" controls="controls">
+                                このブラウザでは再生できません。
+                                <source src="_58376220.mp3">
+                            </audio>
+                            <br>
+                            再生できない場合、ダウンロードは&#x1F3B5;
+                            <a href="https://blog.seesaa.jp/pages/tools/download/index?d=eac7831b2e0ba0feac3a20bf1abd4c82&u=https://qrl-599.up.seesaa.net/image/QRL_432_library.mp3">こちら</a>
+                        </div>
+
+
 <!--
 <video>
 <source src='sample.ogv' type='video/ogg; codecs="theora, vorbis"'>
