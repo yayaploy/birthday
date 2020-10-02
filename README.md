@@ -131,6 +131,9 @@ body::before {
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TYmD_xWVFZ8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<a href="20201002_001.JPG" data-lightbox="abc"><img src="20201002_001.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20201002_002.JPG" data-lightbox="abc"><img src="20201002_002.JPG" alt="サンプル画像" width="900" /></a>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CxJw9s7r67M" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br><br>
